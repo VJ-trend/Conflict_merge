@@ -1,1 +1,3 @@
-console.log("hello js Trigger 1") 
+
+console.log("hello js trigger - 2") // hello js
+
